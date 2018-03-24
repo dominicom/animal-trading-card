@@ -1,2 +1,2 @@
-# animal-trading-card
+# Animal Trading Card
 Udacity Nanodegree Student Project #1
