@@ -1,7 +1,7 @@
 # Animal Trading Card
 
 **Animal Trading Card**
-Student Project #3 during Google Front-End Development Nanodegree Program at Udacity
+Student Project #1 during Google Front-End Development Nanodegree Program at Udacity
 
 [See full project](https://dominicom.github.io/animal-trading-card/)
 
